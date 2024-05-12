@@ -71,7 +71,7 @@ WSGI_APPLICATION = 'learnDjango.wsgi.application'
 
 
 # Database
-# https://docs.djangoproject.com/en/5.0/ref/settings/#databases
+# https://docs.djangoproject.com/en/5.0/ref/settings/#databases and other settings
 
 DATABASES = {
     'default': {
