@@ -11,3 +11,5 @@ def contact(request):
     return HttpResponse("hello , world you are at chai aur django contact page ")
 def contact(request): 
     return HttpResponse("hello , world you are at chai aur django contact page ")
+def contact(request): 
+    return HttpResponse("hello , world you are at chai aur django contact page ")
